@@ -1,0 +1,114 @@
+{
+  "topics": [
+    {
+      "name": "Provident Fund (PF)",
+      "icon": "🏦",
+      "owner": "Praveen",
+      "email": "praveen@kauveryhospital.com",
+      "ownerEmail": "praveen@kauveryhospital.com",
+      "color": "#5c4ef5",
+      "desc": "PF deductions, UAN, transfers, withdrawals"
+    },
+    {
+      "name": "ESI",
+      "icon": "🏥",
+      "owner": "HR Owner 2",
+      "email": "owner2@kauveryhospital.com",
+      "ownerEmail": "owner2@kauveryhospital.com",
+      "color": "#0ea5a0",
+      "desc": "ESI contributions, medical claims, benefits"
+    },
+    {
+      "name": "Gratuity",
+      "icon": "🎁",
+      "owner": "HR Owner 3",
+      "email": "owner3@kauveryhospital.com",
+      "ownerEmail": "owner3@kauveryhospital.com",
+      "color": "#1e9a6a",
+      "desc": "Gratuity eligibility, calculation, payment"
+    },
+    {
+      "name": "Pension (EPS/NPS)",
+      "icon": "👴",
+      "owner": "HR Owner 4",
+      "email": "owner4@kauveryhospital.com",
+      "ownerEmail": "owner4@kauveryhospital.com",
+      "color": "#c97a0a",
+      "desc": "EPS pension, NPS, retirement benefits"
+    },
+    {
+      "name": "Payslip & TDS",
+      "icon": "📑",
+      "owner": "HR Owner 5",
+      "email": "owner5@kauveryhospital.com",
+      "ownerEmail": "owner5@kauveryhospital.com",
+      "color": "#e85d42",
+      "desc": "Salary slips, Form 16, IT deductions"
+    },
+    {
+      "name": "Leave & Attendance",
+      "icon": "📅",
+      "owner": "HR Owner 6",
+      "email": "owner6@kauveryhospital.com",
+      "ownerEmail": "owner6@kauveryhospital.com",
+      "color": "#5c4ef5",
+      "desc": "Leave balances, attendance queries"
+    }
+  ],
+  "units": [
+    {
+      "name": "Corporate",
+      "loc": "Chennai"
+    },
+    {
+      "name": "KCH",
+      "loc": "Chennai"
+    },
+    {
+      "name": "KVP",
+      "loc": "Chennai"
+    },
+    {
+      "name": "KRR",
+      "loc": "Chennai"
+    }
+  ],
+  "escalation": [
+    {
+      "level": "L1",
+      "label": "Team Manager",
+      "days": 2,
+      "name": "Karthik Rajan",
+      "email": "karthik.rajan@kauveryhospital.com",
+      "mobile": "+91 9840001122",
+      "desig": "HR Manager"
+    },
+    {
+      "level": "L2",
+      "label": "Head of Department",
+      "days": 4,
+      "name": "Deepa Krishnan",
+      "email": "deepa.hod@kauveryhospital.com",
+      "mobile": "+91 9840003344",
+      "desig": "HR Head of Department"
+    },
+    {
+      "level": "L3",
+      "label": "VP - Human Resources",
+      "days": 6,
+      "name": "Venkat Subramanian",
+      "email": "vp.hr@kauveryhospital.com",
+      "mobile": "+91 9840005566",
+      "desig": "Vice President - HR"
+    }
+  ],
+  "ownerAccounts": [
+    {
+      "name": "Praveen",
+      "password": "praveen123",
+      "topics": [
+        "Provident Fund (PF)"
+      ]
+    }
+  ]
+}
