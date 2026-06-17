@@ -107,6 +107,14 @@
     {
       "name": "KTN",
       "loc": "Trichy"
+    },
+    {
+      "name": "KRT",
+      "loc": "Trichy"
+    },
+    {
+      "name": "SRT",
+      "loc": "Trichy"
     }
   ],
   "escalation": [
