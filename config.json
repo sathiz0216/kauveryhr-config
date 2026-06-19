@@ -119,34 +119,74 @@
   ],
   "escalation": [
     {
-      "topic": "L1",
-      "level": "Team Manager",
-      "label": "2",
-      "days": null,
-      "name": "sathishcorpstatutory@kauveryhospital.com",
-      "email": "9629201755",
-      "mobile": "HR Manager",
-      "desig": ""
+      "topic": "Provident Fund (PF)",
+      "level": "L1",
+      "label": "Team Manager",
+      "days": 2,
+      "name": "Karthik Rajan",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "HR Manager"
     },
     {
-      "topic": "L2",
-      "level": "Head of Department",
-      "label": "4",
-      "days": null,
-      "name": "sathishcorpstatutory@kauveryhospital.com",
-      "email": "9629201755",
-      "mobile": "HR Head of Department",
-      "desig": ""
+      "topic": "ESI",
+      "level": "L1",
+      "label": "Head of Department",
+      "days": 4,
+      "name": "Deepa Krishnan",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "HR Head of Department"
     },
     {
-      "topic": "L3",
-      "level": "VP - Human Resources",
-      "label": "6",
-      "days": null,
-      "name": "sathishcorpstatutory@kauveryhospital.com",
-      "email": "9629201755",
-      "mobile": "Vice President - HR",
-      "desig": ""
+      "topic": "ESI",
+      "level": "L2",
+      "label": "VP - Human Resources",
+      "days": 6,
+      "name": "Venkat Subramanian",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "Vice President - HR"
+    },
+    {
+      "topic": "Gratuity",
+      "level": "L1",
+      "label": "Team Manager",
+      "days": 2,
+      "name": "Karthik Rajan",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "HR Manager"
+    },
+    {
+      "topic": "Pension (EPS/NPS)",
+      "level": "L1",
+      "label": "Head of Department",
+      "days": 4,
+      "name": "Deepa Krishnan",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "HR Head of Department"
+    },
+    {
+      "topic": "Payslip & TDS",
+      "level": "L1",
+      "label": "VP - Human Resources",
+      "days": 6,
+      "name": "Venkat Subramanian",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "Vice President - HR"
+    },
+    {
+      "topic": "Leave & Attendance",
+      "level": "L1",
+      "label": "Team Manager",
+      "days": 2,
+      "name": "Karthik Rajan",
+      "email": "sathishcorpstatutory@kauveryhospital.com",
+      "mobile": "9629201755",
+      "desig": "HR Manager"
     }
   ],
   "ownerAccounts": [
